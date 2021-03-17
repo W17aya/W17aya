@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eko Wijaya
 I am Junior Software Engineer From Central Java, Indonesia
 
-Skills: Flutter / REACT / JS / HTML / CSS / JAVA / .NET / ABAP / SAP
+Skills: Flutter / REACT / JS / HTML / CSS / JAVA 
 
 
 
